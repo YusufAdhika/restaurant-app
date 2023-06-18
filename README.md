@@ -1,7 +1,8 @@
 # restaurant_api
 
-A new Flutter project.
+Restaurant App ini menampilkan banyak info menarik terkait nama restaurant, menampilkan menu, rating, deskripsi restaurant, hingga dapat memberikan review kepada restaurant yang di pilih.
 
+aplikasi ini ada lah aplikasi final dari kelas Dicoding Belajar Fundamental Aplikasi Flutter.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
