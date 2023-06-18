@@ -1,17 +1,17 @@
-# restaurant_api
+## 🍿 Restaurant App
 
 Restaurant App ini menampilkan banyak info menarik terkait nama restaurant, menampilkan menu, rating, deskripsi restaurant, hingga dapat memberikan review kepada restaurant yang di pilih.
 
-aplikasi ini ada lah aplikasi final dari kelas Dicoding Belajar Fundamental Aplikasi Flutter.
-## Getting Started
+## 📱 Feature App
+•  List of Restaurant
+•  Detail Restaurant
+•  Search Restaurant
+•  Review Restaurant
+•  List of Favourite Restaurant
+•  Daily Remainder
 
-This project is a starting point for a Flutter application.
+## ⚙️ Statte Management
+✔︎  GetX State Management
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📌 Project Information
+Project ini adalah project final submission dicoding pada kelas [Belajar Fundamental Aplikasi Flutter](https://www.dicoding.com/academies/195).
